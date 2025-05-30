@@ -1,11 +1,14 @@
 {
-  "perm": {
-    "dukeofBSKALAL44jdkk": 12345678
-  },
-  "superperm": {
-    "KING-SUPER-999": 1059348862
-  },
+  "perm": [
+    {"key": "PERMKEY1", "userId": null},
+    {"key": "PERMKEY2", "userId": null}
+  ],
   "temp": [
-    "omgILIKEcloneTycoon"
+    {"key": "TEMPKEY1"},
+    {"key": "TEMPKEY2"}
+  ],
+  "superperm": [
+    "SUPERPERMKEY1",
+    "SUPERPERMKEY2"
   ]
 }
